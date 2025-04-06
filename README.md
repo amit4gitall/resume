@@ -5,17 +5,17 @@
 
 <h1 align="center">Hi 👋, I'm Amit Srivastava</h1>
 <h3 align="center">
-  🚀 Java Certified Instructor &nbsp;|&nbsp; 👨‍💻 Full-Stack Developer &nbsp;|&nbsp; 🧠 LeetCode Problem Solving Pro &nbsp;|&nbsp; 💡 MERN & Java Expert
+  🚀 Java Certified Instructor &nbsp;|&nbsp; 👨‍💻 Full-Stack Developer &nbsp;|&nbsp; 🧠 LeetCode Problem Solving Pro &nbsp;|&nbsp; 💡 Flutter , MERN & Java Expert
 </h3>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/13499477?v=4" alt="Banner" width="20%" />
 </p>
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **AI, GenAI, and Cloud**
+- 🔭 I’m currently working on **SkillRisers**
+- 🌱 I’m currently learning **MERN Stack, AWS Cloud, and CI/CD Pipelines**
 - 💬 Ask me about **Java Full Stack, MERN, Flutter, DSA**
-- 👨‍💻 All of my projects are available at [https://yourportfolio.com](https://yourportfolio.com)
+- 👨‍💻 My Live Applications are available at https://skillrisers.com/
 - 📫 How to reach me ** 7042434524**
 - 📹 YouTube: [Brain Mentors](https://www.youtube.com/c/BrainMentorsPvtLtd)
 
