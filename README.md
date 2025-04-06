@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Amit Srivastava</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/26551351?v=4&width=100&height=50" />
+  <img src="https://avatars.githubusercontent.com/u/26551351?v=4" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
-<img src="https://avatars.githubusercontent.com/u/13499477?v=4" alt="Banner" style="width:50%;height:50%;" />
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">💻 Software Instructor | 📹 Content Creator | 💡 MERN & Java Expert</h3>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/13499477?v=4" alt="Banner" width="80%" />
+</p>
 
 - 🔭 I’m currently working on **[Project Name]**
 - 🌱 I’m currently learning **AI, GenAI, and Cloud**
