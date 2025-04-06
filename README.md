@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amit Srivastava</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Content+Creator;MERN+Stack+Expert;Java+DSA+Instructor&center=true&width=500&height=50" />
+  <img src="https://avatars.githubusercontent.com/u/26551351?v=4&width=500&height=50" />
 </p>
 
-<img src="https://github.com/[your-username]/[your-username]/blob/main/banner.png" alt="Banner" style="width:100%;" />
+<img src="https://avatars.githubusercontent.com/u/13499477?v=4" alt="Banner" style="width:100%;" />
 
 - 🔭 I’m currently working on **[Project Name]**
 - 🌱 I’m currently learning **AI, GenAI, and Cloud**
