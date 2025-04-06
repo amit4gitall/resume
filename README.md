@@ -62,7 +62,7 @@
 ### 🤝 Let’s Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.linkedin.com/in/amit-shashi-srivastava/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:youremail@gmail.com">
