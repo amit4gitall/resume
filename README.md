@@ -7,7 +7,7 @@
 <h3 align="center">💻 Software Instructor | 📹 Content Creator | 💡 MERN & Java Expert</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/13499477?v=4" alt="Banner" width="80%" />
+  <img src="https://avatars.githubusercontent.com/u/13499477?v=4" alt="Banner" width="20%" />
 </p>
 
 - 🔭 I’m currently working on **[Project Name]**
