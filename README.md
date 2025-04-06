@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/26551351?v=4&width=100&height=50" />
 </p>
 
-<img src="https://avatars.githubusercontent.com/u/13499477?v=4" alt="Banner" style="width:50%;" />
+<img src="https://avatars.githubusercontent.com/u/13499477?v=4" alt="Banner" style="width:50%;height:50%;" />
 
 - 🔭 I’m currently working on **[Project Name]**
 - 🌱 I’m currently learning **AI, GenAI, and Cloud**
