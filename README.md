@@ -41,24 +41,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brainmentorspvtltd&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brainmentorspvtltd&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainmentorspvtltd&layout=compact&theme=tokyonight" />
 </p>
 
 ### 🚀 Projects That Make Me Proud
 
-- 💡 [AI News Generator](https://github.com/yourusername/ai-news-app) — React + GenAI news app
-- 🎥 [Video Player with Adaptive Bitrate](https://github.com/yourusername/youtube-clone)
-- 🧠 [Java Essentials Series](https://github.com/yourusername/java-essentials)
+- 💡 https://skillrisers.com — Mongo, Node , Next , TS, Docker, AWS
+- 🧠 https://www.brain-mentors.com/ Mongo, Node , Next , TS, Docker, AWS
 
-➡️ Check full list at [SkillRisers Projects](https://github.com/yourusername?tab=repositories)
+
 
 ### 🤝 Let’s Connect!
 
